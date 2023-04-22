@@ -1,3 +1,7 @@
+Database and API routes came from professor Rufo's lesson. Start Apache and Mysql in Xampp software before running.
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
